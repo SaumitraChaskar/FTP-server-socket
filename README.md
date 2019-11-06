@@ -41,11 +41,11 @@ We have implemented the server using Python sockets library, The Server hosts ma
 
 3. Change the host ip address in the server.py code.
 
-	![Server](/images/server.png)
+	![Server](server.png)
 
 3. Change the host ip address in the client.py code.
 
-	![Server](/images/client.png)
+	![Server](client.png)
 
 	
 5. Run the server
@@ -57,7 +57,15 @@ We have implemented the server using Python sockets library, The Server hosts ma
 
 ## Some Screenshots of the application:
 
-![Server](/images/home.png)
+## Ask File name
+![Server](file_name.png)
+
+## Permission for download
+![Server](permit_download.png)
+
+
+## Download Complete
+![Server](permit_download.png)
 	
 	
 	
