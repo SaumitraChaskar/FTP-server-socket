@@ -1,8 +1,9 @@
 # FTP-server-socket
 
-# DCCN Project - Chat Application using Websockets
+# DCCN Project - FTP Server Using socket Programming
 
 ### Batch - A
+### Group No - 3
 ### Group Members (Name - Roll no(UID))
 - Amodh Akhelikar - 04 (2017130004)
 - Saumitra Chaskar - 10 (2017130011)
