@@ -67,6 +67,9 @@ We have implemented the server using Python sockets library, The Server hosts ma
 
 ## Download Complete
 ![Server](permit_download.png)
+
+## Schematic View.
+![server](schematic-view.jpeg)
 	
 	
 	
